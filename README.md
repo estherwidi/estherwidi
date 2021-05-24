@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @estherwidi
+- 👋 Hi, I’m Esther
 - 👀 I’m interested in math modeling using differential equations and applied math.
 - 🌱 I’m currently learning basic python and using real data in creating math models.
 - 💞️ I’m looking to collaborate on dynamical systems, math modeling, differential equations, traditional fishponds, time dependent systems.
